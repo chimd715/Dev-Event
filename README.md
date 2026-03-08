@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[커스텀 평가 체계로 LLM 서비스 평가 기준 만들기](https://discuss.pytorch.kr/t/llm/8985)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 파이토치 한국 사용자 모임
-  - 접수: 02. 13(월) ~ 03. 04(수)
-
-- __[AWSKRUG #AIEngineering 소모임 - 쉽고 빠르게 알아보는 Bedrock AgentCore의 주요기능](https://www.meetup.com/awskrug/events/313428635/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 02. 23(월) ~ 03. 04(수)
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/313338531/)__
-  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 23(월) ~ 03. 05(목)
-- __[2026년 개발자 채용시장의 현실 : '레거시'에서 기회를 찾는 법](https://inf.run/TDwwm)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 인프런
-  - 접수: 02. 25(수) ~ 03. 05(목)
-- __[AI 기반 민원 서비스 혁신 시나리오 및 개발 방법 공모전](https://plus.gov.kr/ideaContest/)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `AI`
-  - 주최: 행정안전부
-  - 접수: 02. 09(월) ~ 03. 06(금)
-- __[OpenAI Codex Community Meetup - Korea](https://luma.com/hdwrnztq)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
-  - 주최: OpenAI Codex Community Meetup
-  - 접수: 02. 28(토) ~ 03. 06(금)
-- __[THE Hackathon](https://thehackathon.org/)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: THE Hackathon
-  - 접수: 02. 28(토) ~ 03. 06(금)
 - __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
   - 접수: 02. 04(수) ~ 03. 09(월)
+
 - __[월AI_TOP_100 (CAMPUS)](https://aitop100.org/)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 카카오임팩트
@@ -112,6 +84,14 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 인프런
   - 접수: 02. 12(목) ~ 03. 11(수)
+- __[[멋쟁이사자처럼] 취업 현피 Day](https://docs.google.com/forms/d/e/1FAIpQLScnV-QNERiZfe3dVbHVloNAm0F0B8A6Ac_sziSpWZ4KijXBbw/viewform)__
+  - 분류: `오프라인(서울)`, `무료`, `커리어`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 03. 07(토) ~ 03. 11(수)
+- __[SK네트웍스 Family AI 캠프](https://networks-aicamp.io/program)__
+  - 분류: `오프라인(서울 독산)`, `무료`, `AI`
+  - 주최: SK네트웍스
+  - 접수: 03. 07(토) ~ 03. 11(수)
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -128,6 +108,10 @@
   - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`, `기술일반`
   - 주최: Dev Korea
   - 접수: 02. 25(수) ~ 03. 12(목) 19:00
+- __[Vibe Everything — AI Agent 밋업](https://www.rocketpunch.com/event/jsnrpnY24Q)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
+  - 주최: 로켓펀치
+  - 접수: 03. 04(수) ~ 03. 12(목)
 - __[kt cloud 풀스택](https://ktcloud-techup.com/fullstack)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: KT CLOUD
@@ -148,6 +132,14 @@
   - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
   - 주최: Kiro 한국 사용자 모임
   - 접수: 02. 28(토) ~ 03. 18(수)
+- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/313352636/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 19(목) ~ 03. 18(수)
+- __[Zero100 글로벌 바이브코딩 빌더톤 in 서울](https://luma.com/pb000fua)__
+  - 분류: `오프라인(서울)`, `무료`, `대회`
+  - 주최: Women in Vibe Coding
+  - 접수: 03. 07(토) ~ 03. 19(목)
 - __[제22회 차세대 테크 리더십포럼 - 'Physical AI 시대: 로봇과 인공지능이 만드는 일상의 혁신'](https://event-us.kr/naekyehs/event/120945)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 한국공학한림원 차세대공학리더 YEHS
@@ -156,27 +148,6 @@
   - 분류: `오프라인(경기)`, `유료`, `교육`, `AI`, `클라우드`
   - 주최: 카카오
   - 접수: 02. 26(목) ~ 03. 22(일)
-- __[오픈소스 컨트리뷰션 아카데미 멘토단 모집](https://oss.kr/pages/10/4453)__
-  - 분류: `오프라인(서울)`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 24(화) ~ 03. 29(일)
-
-<br />
-
-## `26년 03월`
-- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/313202272/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 19(목) ~ 03. 03(화)
-
-- __[Vibe Everything — AI Agent 밋업](https://www.rocketpunch.com/event/jsnrpnY24Q)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
-  - 주최: 로켓펀치
-  - 접수: 03. 04(수) ~ 03. 12(목)
-- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/313352636/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 19(목) ~ 03. 18(수)
 - __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
@@ -185,15 +156,27 @@
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 02. 15(수) ~ 03. 28(토)
+- __[오픈소스 컨트리뷰션 아카데미 멘토단 모집](https://oss.kr/pages/10/4453)__
+  - 분류: `오프라인(서울)`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 02. 24(화) ~ 03. 29(일)
 
 <br />
 
 ## `26년 04월`
+- __[2026 인터넷서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: 한국인터넷전문가협회
+  - 접수: 03. 07(토) ~ 04. 01(수)
+
+- __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
+  - 주최: 프라즈마
+  - 접수: 03. 07(토) ~ 04. 07(화)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
   - 일시: 02. 06(금) ~ 04. 21(화)
-
 - __[2026 월드IT쇼](https://www.worlditshow.co.kr/introduce/01.php)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -344,7 +327,8 @@
           <td>2026년</td>
           <td>
             <a href="./end_event/2026/26_01.md"> 01월 </a>,
-            <a href="./end_event/2026/26_02.md"> 02월 </a>
+            <a href="./end_event/2026/26_02.md"> 02월 </a>,
+            <a href="./end_event/2026/26_03.md"> 03월 </a>
           </td>
         </tr>
         <tr>
