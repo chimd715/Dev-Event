@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-196-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-197-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -96,10 +96,18 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 한국공학한림원 차세대공학리더 YEHS
   - 접수: 02. 28(토) ~ 03. 20(금) 12:00
+- __[Oracle Academy와 함께하는 Oracle Dev Day](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x957012abcd)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
+  - 주최: 오라클
+  - 접수: 03. 16(월) ~ 03. 20(금)
 - __[Flutter Incheon Monthly Meetup](https://ticketa.co/event/nv2atyow)__
   - 분류: `오프라인(인천 연수구)`, `무료`, `iOS`, `안드로이드`
   - 주최: Flutter Incheon
   - 접수: 03. 14(토) ~ 03. 20(금) 12:00
+- __[만우절에 진심인 개발자들의 축제, '딸깍톤' 참가 모집](https://ttalkkakthon.vibecodingclub.kr/)__
+  - 분류: `오프라인(숭실대)`, `해커톤`, `AI`, `네트워킹`
+  - 주최: 바이브 코딩 클럽
+  - 접수: 03. 14(토) ~ 03. 20(금)
 - __[카카오테크 부트캠프](https://kakaotechbootcamp.com/)__
   - 분류: `오프라인(경기)`, `유료`, `교육`, `AI`, `클라우드`
   - 주최: 카카오
@@ -112,6 +120,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
+- __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 한빛앤
+  - 접수: 03. 16(월) ~ 03. 24(화)
 - __[TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: TypeScript Backend Meetup
@@ -173,6 +185,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
+- __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://www.ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1*1rntetw*_gcl_au*MjkyMDA5OTQyLjE3NzM2NjUyODE.)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 싸피
+  - 접수: 03. 16(월) ~ 04. 30(목)
 
 <br />
 
@@ -758,6 +774,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Han5991"><img src="https://avatars.githubusercontent.com/u/73056306?v=4?s=100" width="100px;" alt="sangwook"/><br /><sub><b>sangwook</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Han5991" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/queryjin"><img src="https://avatars.githubusercontent.com/u/219763262?v=4?s=100" width="100px;" alt="queryjin"/><br /><sub><b>queryjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=queryjin" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JUNGBOGEON"><img src="https://avatars.githubusercontent.com/u/102535904?v=4?s=100" width="100px;" alt="Bogeon Jung"/><br /><sub><b>Bogeon Jung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JUNGBOGEON" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/da-in"><img src="https://avatars.githubusercontent.com/u/66757141?v=4?s=100" width="100px;" alt="Choi Da-in"/><br /><sub><b>Choi Da-in</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=da-in" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
