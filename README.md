@@ -67,27 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 이노베이션아카데미
-  - 접수: 03. 04(수) ~ 03. 23(월)
-
-- __[인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)](https://www.pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1)__
-  - 분류: `오프라인`, `유료`, `AI`
-  - 주최: 패스파인더
-  - 접수: 03. 21(토) ~ 03. 24(화) 16:00
-- __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 한빛앤
-  - 접수: 03. 16(월) ~ 03. 24(화)
-- __[Wanted AI Tech Night](https://event.wanted.co.kr/WATN)__
-  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
-  - 주최: 원티드
-  - 접수: 03. 16(월) ~ 03. 24(화)
 - __[Microsoft Startup Connection 2026](https://msevents.microsoft.com/event?id=20263385430908)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 03. 19(목) ~ 03. 26(목)
+
 - __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 메가존클라우드
@@ -165,6 +149,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 06(월)
+- __[Agentic Workflow 2026: AI 에이전트 주도 개발 실전 컨퍼런스](https://www.devmento.co.kr/seminas/agentic2026.html)__
+  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
+  - 주최: DevMento
+  - 접수: 03. 25(수) ~ 04. 07(화)
 - __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: 프라즈마
@@ -181,6 +169,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 내러티브
   - 접수: 03. 23(월) ~ 04. 09(목)
+- __[Build with AI 2026 - GDG Korea Android](https://ticketa.co/event/6jmbrcab)__
+  - 분류: `오프라인(서울 성동구)`, `유료`, `AI`
+  - 주최: GDG Korea Android
+  - 접수: 03. 25(수) ~ 04. 10(금)
+- __[Grafana & Friends Seoul #1: AI 시대의 SRE와 모니터링](https://ticketa.co/event/dtdi6msi)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: Grafana & Friends Seoul
+  - 접수: 03. 25(수) ~ 04. 10(금)
 - __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313678685)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -189,10 +185,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 14(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/313880043)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 03. 25(수) ~ 04. 15(목)
 - __[２０２６ Build with AI Golang Korea](https://ticketa.co/event/871axvkx)__
   - 분류: `오프라인(서울 구로)`, `유료`, `AI`
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
+- __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: Microsoft 커뮤니티 이벤트
+  - 접수: 03. 25(수) ~ 04. 20(월)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
@@ -201,6 +205,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
+- __[Design Korea #0 with Figma](https://dev-korea.com/events/design-korea-0-april-2026)__
+  - 분류: `오프라인(서울)`, `무료`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 03. 20(금) ~ 04. 23(목) 19:00
 - __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://www.ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1*1rntetw*_gcl_au*MjkyMDA5OTQyLjE3NzM2NjUyODE.)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 싸피
@@ -209,11 +217,15 @@
 <br />
 
 ## `26년 05월`
+- __[Ubuntu 26.04 LTS Release Party & InstallFest @Daejeon](https://ticketa.co/event/taitwvzz)__
+  - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 03. 25(수) ~ 05. 01(금)
+
 - __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
   - 일시: 01. 27(화) ~ 05. 08(금)
-
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
