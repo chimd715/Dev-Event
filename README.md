@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-197-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-198-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -120,6 +120,10 @@
 <br />
 
 ## `26년 04월`
+- __[2026 구글 클라우드 스터디잼](https://sites.google.com/view/2026-study-jams/h1-study-jam)__
+  - 분류: `온라인`, `무료`, `교육`, `클라우드`
+  - 주최: Google
+  - 접수: 03. 28(토) ~ 04. 01(수)
 - __[26년 오픈소스 컨트리뷰션 아카데미 [체험형] 멘티 모집](https://www.oss.kr/pages/10/4459?page=1&pageSize=10&searchKeyword=&searchType=)__
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -149,6 +153,10 @@
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: snowflake
   - 접수: 03. 17(화) ~ 04. 05(일)
+- __[localhost:web3 Open Lounge #1](https://luma.com/d6xzrnyk)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
+  - 주최: localhost:web3
+  - 접수: 03. 28(토) ~ 04. 05(일)
 - __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/313714446/)__
   - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -201,6 +209,10 @@
   - 분류: `오프라인(서울 구로)`, `유료`, `AI`
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
+- __[F.A.I.L 2026 (First Attempt In Learning)](https://event-us.kr/kdf/event/122063)__
+  - 분류: `오프라인(서울 강동구)`, `유료`, `네트워킹` 
+  - 주최: 한국개발자포럼
+  - 접수: 03. 08(일) ~ 04. 16(목)
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -225,6 +237,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 03. 27(금) ~ 04. 24(금)
+- __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 고용노동부
+  - 접수: 03. 30(월) ~ 04. 26(일)
 - __[전국민 AI 경진대회 - AI 에듀톤](https://aichallenge4all.or.kr/competitions/ai-education)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -250,6 +266,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
   - 일시: 01. 05(월) ~ 05. 11(월)
+- __[2026 성남시 공공데이터 활용 시각화 경진대회](https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=viewok&gp=1&ix=105710)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 성남시
+  - 접수: 04. 20(월) ~ 05. 13(수)
 - __[제5회 고용노동 공공데이터·AI 활용 공모전](https://www.2026datacontest.co.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 고용노동부
@@ -841,6 +861,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/da-in"><img src="https://avatars.githubusercontent.com/u/66757141?v=4?s=100" width="100px;" alt="Choi Da-in"/><br /><sub><b>Choi Da-in</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=da-in" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yunjisang.me"><img src="https://avatars.githubusercontent.com/u/106881184?v=4?s=100" width="100px;" alt="Yun Jisang"/><br /><sub><b>Yun Jisang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=balhyo-younjisang" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
