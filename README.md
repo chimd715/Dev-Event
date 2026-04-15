@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-198-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-199-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -85,7 +85,7 @@
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
 - __[슬래시커넥트 웨비나 — SLASH CONNECT](https://slashconnect.co.kr/webinar)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 분류: `온라인`, `무료`, `AI`
   - 주최: 슬래시커넥트
   - 접수: 04. 05(일) ~ 04. 15(수)
 - __[AI/InfraCon](https://luma.com/8nzr1zec)__
@@ -108,6 +108,10 @@
   - 분류: `오프라인(서울 양재역)`, `무료`, `AI`
   - 주최: Claude Community Events
   - 접수: 04. 05(일) ~ 04. 17(금)
+- __[AI를 제품에 적용한다는 것 — Goorm Commit](https://tech.goorm.io/2604_commit/)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 04. 10(목) ~ 04. 17(금)
 - __[Buidl Hack 2026: Final Pitch](https://luma.com/BuidlHack2026_FinalPitch)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`
   - 주최: BAS / Ludium
@@ -136,6 +140,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
+- __[제1회 클래스메소드코리아 Claude 오프라인 밋업](https://ticketa.co/event/kea392rm)__
+  - 분류: `오프라인(서울 서초구)`, `유료`, `모임`, `AI`
+  - 주최: 클래스메소드코리아
+  - 접수: 04. 14(화) ~ 04. 22(목)
 - __[Design Korea #0 with Figma](https://dev-korea.com/events/design-korea-0-april-2026)__
   - 분류: `오프라인(서울)`, `무료`, `기술일반`
   - 주최: Dev Korea
@@ -164,10 +172,18 @@
   - 분류: `오프라인(부산 해운대구)`, `유료`, `대회`, `AI`
   - 주최: GDG Busan
   - 접수: 04. 11(금) ~ 04. 24(금)
+- __[The 2nd OmOCon Seoul with Hashed](https://luma.com/0c78q15u)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
+  - 주최: OmOCon
+  - 접수: 04. 14(화) ~ 04. 25(토)
 - __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 고용노동부
   - 접수: 03. 30(월) ~ 04. 26(일)
+- __[CMUX x AIM 해커톤](https://luma.com/zun4wf73)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `대회`, `AI`
+  - 주최: Manaflow / AI Nexus
+  - 접수: 04. 14(화) ~ 04. 26(일)
 - __[모두의 LLM Security: 논문 소개부터 최신 사례까지](https://biz.modulabs.co.kr/event/433)__
   - 분류: `오프라인`, `무료`, `보안`, `AI`
   - 주최: 모두의연구소
@@ -176,10 +192,18 @@
   - 분류: `오프라인(서울 강서구)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 05(일) ~ 04. 28(화)
+- __[Seoul MongoDB User Group Meetup #3](https://www.meetup.com/mongodb-usergroup-seoul/events/314210138/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
+  - 주최: MongoDB 한국 사용자 모임
+  - 접수: 04. 10(금) ~ 04. 28(화)
 - __[AWSKRUG 보안 #Security 소모임: Terraform 시크릿 관리 실습](https://www.meetup.com/awskrug/events/314209332/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 04. 11(금) ~ 04. 29(수)
+- __[Pangyo | Claude Code for Developers](https://luma.com/tzobcks8)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `AI`
+  - 주최: Claude Community Events
+  - 접수: 04. 14(화) ~ 04. 30(목)
 - __[전국민 AI 경진대회 - AI 에듀톤](https://aichallenge4all.or.kr/competitions/ai-education)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -209,6 +233,10 @@
   - 분류: `오프라인(대전 유성구)`, `유료`, `대회`, `AI`
   - 주최: GDG Daejeon
   - 접수: 04. 11(금) ~ 05. 08(금)
+- __[Hermes Agent Community Meetup @ Seoul](https://luma.com/1cwwvh0p)__
+  - 분류: `오프라인(서울)`, `무료`, `AI`
+  - 주최: Instruct.KR / Team Attention
+  - 접수: 04. 14(화) ~ 05. 08(금)
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
@@ -225,6 +253,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: ICT콤플렉스 피우다프로젝트
   - 접수: 04. 01(수) ~ 05. 17(일)
+- __[AWS Summit Seoul 2026](https://pages.awscloud.com/aws-summit-seoul-2026-registration.html)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `클라우드`
+  - 주최: AWS
+  - 접수: 04. 14(화) ~ 05. 20(수)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
@@ -814,6 +846,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/da-in"><img src="https://avatars.githubusercontent.com/u/66757141?v=4?s=100" width="100px;" alt="Choi Da-in"/><br /><sub><b>Choi Da-in</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=da-in" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://yunjisang.me"><img src="https://avatars.githubusercontent.com/u/106881184?v=4?s=100" width="100px;" alt="Yun Jisang"/><br /><sub><b>Yun Jisang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=balhyo-younjisang" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jmo.kr"><img src="https://avatars.githubusercontent.com/u/82754696?v=4?s=100" width="100px;" alt="전민오"/><br /><sub><b>전민오</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jbj338033" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
