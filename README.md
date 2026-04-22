@@ -67,6 +67,10 @@
 <br />
 
 ## `26년 04월`
+- __[[4월 COMMIT] AI를 제품에 적용한다는 것: 생성형 AI 시대, 설계와 운영](https://tech.goorm.io/2604_commit/)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `AI`
+  - 주최: 구름
+  - 접수: 04. 10(목) ~ 04. 17(금)
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -92,6 +96,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
+- __[JOBKOREA DEVCON — AI 시대, 개발자 고민 완전 정복](https://m.jobkorea.co.kr/help/notice/view?B_No=15041)__
+  - 분류: `온라인`, `무료`, `세미나`
+  - 주최: 잡코리아
+  - 접수: 04. 21(화) ~ 04. 21(화)
 - __[제1회 클래스메소드코리아 Claude 오프라인 밋업](https://ticketa.co/event/kea392rm)__
   - 분류: `오프라인(서울 서초구)`, `유료`, `모임`, `AI`
   - 주최: 클래스메소드코리아
@@ -128,6 +136,10 @@
   - 분류: `오프라인(부산 해운대구)`, `유료`, `대회`, `AI`
   - 주최: GDG Busan
   - 접수: 04. 11(금) ~ 04. 24(금)
+- __[SF x KR : AI Native GTM Meetup](https://luma.com/8w9eo0qy)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
+  - 주최: Delta Society / Beyond Product
+  - 접수: 04. 20(월) ~ 04. 24(금)
 - __[The 2nd OmOCon Seoul with Hashed](https://luma.com/0c78q15u)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: OmOCon
@@ -136,6 +148,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 18(금) ~ 04. 25(토)
+- __[Seoul | Claude Bloom × AB180](https://luma.com/haoh7sla)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `AI`
+  - 주최: Cliwant
+  - 접수: 04. 20(월) ~ 04. 25(토)
 - __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 고용노동부
@@ -164,6 +180,14 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 한국인터넷전문가협회
   - 접수: 04. 18(금) ~ 04. 28(화)
+- __[CHANNEL DEVMEETUP](https://luma.com/4u5dq8o7)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
+  - 주최: 채널톡
+  - 접수: 04. 21(월) ~ 04. 28(화)
+- __[1인 개발자의 수익형 서비스 생존기 : 코드 한 줄보다 중요한 실패 확률을 낮추는 전략!](https://luma.com/4u5dq8o7)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 블러Bler
+  - 접수: 04. 21(월) ~ 04. 28(화)
 - __[AWSKRUG 보안 #Security 소모임: Terraform 시크릿 관리 실습](https://www.meetup.com/awskrug/events/314209332/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
@@ -192,11 +216,22 @@
   - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 일시: 03. 25(수) ~ 05. 01(금)
+- __[2026 블록체인 밋업데이 (2회차)](https://event-us.kr/2026bcmd/event/124319)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`
+  - 주최: 2026 BCMD
+  - 접수: 04. 20(월) ~ 05. 01(금)
+- __[2026 Build with AI: Hands-on Campus](https://event-us.kr/m/122871/53061)__
+  - 분류: `오프라인(서울 서강대)`, `유료`, `기술일반`, `AI`
+  - 주최: GDG Campus Korea
+  - 일시: 03. 26(목) ~ 05. 03(일)
 - __[2026 관광데이터 활용 공모전](https://api.visitkorea.or.kr/#/cntSearchDetail?no=1)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 한국관광공사
   - 접수: 03. 30(월) ~ 05. 06(수)
-
+- __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업 참여팀 모집 공고](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 04. 08(수) ~ 05. 06(수) 18:00
 - __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
@@ -209,6 +244,10 @@
   - 분류: `오프라인(서울)`, `무료`, `AI`
   - 주최: Instruct.KR / Team Attention
   - 접수: 04. 14(화) ~ 05. 08(금)
+- __[파이콘 부산 2026 (PyCon Busan 2026)](https://event-us.kr/pythonkorea/event/122855)__
+  - 분류: `오프라인(부산 해운대구)`, `무료`, `기술일반`
+  - 주최: 파이콘
+  - 접수: 04. 06(월) ~ 05. 08(금)
 - __[OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
   - 주최: Narrative (내러티브)
@@ -237,10 +276,7 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
   - 일시: 02. 06(금) ~ 05. 25(월)
-- __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 11(월) ~ 08. 31(월)
+
 
 <br />
 
@@ -251,6 +287,18 @@
   - 일시: 06. 10(수) ~ 06. 12(금)
 
 <br />
+
+## `26년 08월`
+- __[PyCon Korea 2026](https://2026.pycon.kr)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: 파이콘 코리아
+  - 접수: 08. 15(토) ~ 08. 17(월)
+
+- __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 11(월) ~ 08. 31(월)
+
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
