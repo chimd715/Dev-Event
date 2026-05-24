@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](https://github.com/brave-people/Dev-Event/blob/master/static/title-v3-lg.png?raw=true)
+![img](/static/banner/260523_banner_v2.jpg)
 
 </div>
 
@@ -35,7 +35,7 @@
     </a>
 </p>
 
-> 배너 클릭시 연관 링크로 이동합니다.
+> 🌐 배너 클릭시 연관 링크로 이동합니다.
 
 <hr />
 <br />
@@ -71,7 +71,7 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
   - 일시: 02. 06(금) ~ 05. 25(월)
-  
+
 - __[스크래퍼 개발자 모임 5회](https://luma.com/cf9nsaef)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
@@ -141,17 +141,18 @@
   - 주최: Microsoft / GitHub
   - 접수: 05. 23(토) ~ 05. 31(일)
 
+<br />
 
 ## `26년 06월`
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/314830108/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 18(월) ~ 06. 01(월)
+  
 - __[데이터야놀자 2026](https://event-us.kr/datayanolja2020/event/124270)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `데이터`, `AI`
   - 주최: 데이터야놀자
   - 접수: 05. 06(수) ~ 06. 02(화)
-
 - __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국IT여성기업인협회
@@ -826,6 +827,6 @@
 
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/brave-people/Dev-Event.svg?style=flat-square&color=2db400&labelColor=443731&label=visit)](https://hits.sh/github.com/brave-people/Dev-Event/)
 
 </div>
