@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-205-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-206-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -132,6 +132,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국오픈소스협회
   - 접수: 06. 15(월) ~ 07. 17(금)
+- __[NIPA 지원사업 건설기계 데이터 기반 AI 융합 전문가 무료교육 모집](https://crowdacademyofc.imweb.me/ai-expert)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `교육`, `AI`
+  - 주최: 크라우드아카데미
+  - 접수: 06. 29(월) 14:00 ~ 07. 19(일)
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
@@ -187,6 +191,7 @@
   - 분류: `온라인`, `오프라인(서울 서대문구)`, `무료`, `대회`, `AI`
   - 주최: KB국민은행
   - 접수: 07. 06(월) ~ 08. 03(월) 16:00
+  
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대전정보문화산업진흥원
@@ -215,7 +220,10 @@
   - 분류: `오프라인(대구)`, `유료`, `대회`, `AI`
   - 주최: 맞다AI가
   - 접수: 07. 07(화) ~ 08. 22(토) 09:00
-
+- __[제5회 너드콘 - AI와 현업노하우](https://nerd.aviss.kr/archive/5)__
+  - 분류: `오프라인(서울)`, `유료`, `세미나`, `AI`
+  - 주최: 너드콘
+  - 접수: 07. 07(화) ~ 08. 22(토) 14:00
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
@@ -831,6 +839,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jwaminju"><img src="https://avatars.githubusercontent.com/u/49024958?v=4?s=100" width="100px;" alt="wony617"/><br /><sub><b>wony617</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jwaminju" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mabyoungg.tistory.com"><img src="https://avatars.githubusercontent.com/u/131260371?v=4?s=100" width="100px;" alt="mabyoungg"/><br /><sub><b>mabyoungg</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mabyoungg" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/crowdacademy-manager"><img src="https://avatars.githubusercontent.com/u/301247116?v=4?s=100" width="100px;" alt="crowdacademy-manager"/><br /><sub><b>crowdacademy-manager</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=crowdacademy-manager" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
