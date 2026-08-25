@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-207-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-208-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -198,6 +198,10 @@
   - 분류: `오프라인(부산)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 12(수) ~ 08. 28(금) 19:00
+- __[타임트리코리아 AI 에이전트 개발 컨퍼런스](https://conf.timetreeapp.com)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `컨퍼런스`, `AI`
+  - 주최: 타임트리코리아 (TimeTree Korea)
+  - 접수: 08. 18(화) ~ 08. 28(금)
 - __[ATTENTION 2026](https://event-us.kr/makinarocks/event/132375)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 마키나락스
@@ -977,6 +981,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://mabyoungg.tistory.com"><img src="https://avatars.githubusercontent.com/u/131260371?v=4?s=100" width="100px;" alt="mabyoungg"/><br /><sub><b>mabyoungg</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mabyoungg" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/crowdacademy-manager"><img src="https://avatars.githubusercontent.com/u/301247116?v=4?s=100" width="100px;" alt="crowdacademy-manager"/><br /><sub><b>crowdacademy-manager</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=crowdacademy-manager" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/seplease"><img src="https://avatars.githubusercontent.com/u/80445374?v=4?s=100" width="100px;" alt="Sieun Kim"/><br /><sub><b>Sieun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seplease" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nomad2569"><img src="https://avatars.githubusercontent.com/u/58652871?v=4?s=100" width="100px;" alt="nomad"/><br /><sub><b>nomad</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nomad2569" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
