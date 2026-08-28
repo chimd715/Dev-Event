@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-208-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-209-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -69,119 +69,11 @@
 <br />
 
 ## `26년 08월`
-- __[맞다톤 | 바이브 코딩으로 하루 만에 AI 서비스 MVP 완성](https://ticketa.co/event/jxxdbwmn)__
-  - 분류: `오프라인(대구)`, `유료`, `대회`, `AI`
-  - 주최: 맞다AI가
-  - 접수: 07. 07(화) ~ 08. 22(토) 09:00
-
-- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 22일(토)](https://www.meetup.com/awskrug/events/316175545/)__
-  - 분류: `온라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 19(수) ~ 08. 22(토) 10:00
-- __[제5회 너드콘 - AI와 현업노하우](https://nerd.aviss.kr/archive/5)__
-  - 분류: `오프라인(서울)`, `유료`, `세미나`, `AI`
-  - 주최: 너드콘
-  - 접수: 07. 07(화) ~ 08. 22(토) 14:00
-- __[GDG Busan Google I/O Extended 2026 - Builder & Maker Networking](https://ticketa.co/event/qenoc6he)__
-  - 분류: `오프라인(부산)`, `유료`, `세미나`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 07. 09(목) ~ 08. 22(토) 14:00
-- __[Deepest AI Night](https://luma.com/umxl3zao)__
-  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
-  - 주최: Deepest
-  - 접수: 08. 18(화) ~ 08. 22(토)
-- __[vLLM.KR Community Meetup 2026/08](https://event-us.kr/pytorchkr/event/132012)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: PyTorchKR
-  - 접수: 08. 05(수) 11:30 ~ 08. 23(일) 00:00
-- __[[웨비나] VS Code에서 임베디드 개발, 어디까지 가능할까?](https://event-us.kr/iar/event/131852)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: IAR Systems Korea
-  - 접수: 08. 06(목) ~ 08. 24(월) 17:00
-- __[[무료·발표자료 제공] 정책부터 Physical AI까지, 기업 AX 실행전략 웨비나](https://event-us.kr/ax/event/131858)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 벤처기업협회 AX브릿지위원회
-  - 접수: 08. 03(월) ~ 08. 24(월) 17:00
-- __[AWSKRUG 인천 지역 #incheon 소모임 - 08월 24일 (월)](https://www.meetup.com/awskrug/events/316081735/)__
-  - 분류: `오프라인(인천)`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 12(수) ~ 08. 24(월) 19:00
-- __[[온앤안 무료 세미나] 현직 화이트해커가 밝히는 실전 보안 트렌드 & 커리어 로드맵](https://event-us.kr/day1com/event/132713)__
-  - 분류: `오프라인(경기 수원)`, `무료`, `세미나`, `기술일반`
-  - 주최: 온앤安
-  - 접수: 08. 14(금) ~ 08. 24(월) 22:30
-- __[마케터를 위한 AX 실전: 아는 만큼 누리는 API와 MCP, 지표 정의부터 대시보드 자동화까지](https://biz.modulabs.co.kr/event/491)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 08. 25(화)
-- __[&lt;Do it! 바이브 코딩 + 커서 AI&gt; 무료 온라인 저자 강연](https://event-us.kr/easyspub/event/132152)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 이지스퍼블리싱
-  - 접수: 08. 06(목) ~ 08. 25(화) 08:00
-- __[델 테크놀로지스 포럼 2026](https://event-us.kr/dtf2026/event/130951)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: 델 테크놀로지스
-  - 접수: 07. 21(화) ~ 08. 25(화) 09:00
-- __[Kiro 한국 사용자 모임 (2026-08)](https://luma.com/jjd10nb6)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
-  - 주최: Kiro 한국 사용자 모임 / AWSKRUG
-  - 접수: 08. 10(월) ~ 08. 25(화) 10:00
-- __[탈(脫) 오라클, 고객 가치를 실현하는 맞춤형 마이그레이션 전략](https://event-us.kr/itsman/event/131764)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: 잇츠맨
-  - 접수: 08. 01(토) ~ 08. 25(화) 14:00
-- __[에이전틱 엔지니어링 핸즈온 : AI 주도 개발 실습 A to Z](https://event-us.kr/datanet/event/131919)__
-  - 분류: `오프라인(서울 서초구)`, `유료`, `세미나`, `AI`
-  - 주최: 데브멘토
-  - 접수: 08. 04(화) 10:00 ~ 08. 25(화) 22:00
-- __[[VESSL AI 웨비나] 2027년 GPU 예산, 품의서를 통과하는 TCO 설계법](https://event-us.kr/vesslai/event/132200)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 베슬에이아이
-  - 접수: 08. 06(목) ~ 08. 25(화) 23:30
-- __[AWSKRUG 보안 #Security 소모임 - 8월 27일 (목)](https://www.meetup.com/awskrug/events/316081956/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 12(수) ~ 08. 25(화) 23:59
-- __[Builder Workshop: Q402 on Mantle](https://luma.com/j3qai77q)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `블록체인`
-  - 주최: Mantle / Quack AI
-  - 일시: 08. 26(수)
-- __[스마트클라우드쇼 2026](https://event-us.kr/chosunbiz/event/130679)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `세미나`, `클라우드`, `AI`
-  - 주최: 조선비즈
-  - 접수: 07. 15(수) ~ 08. 26(수) 00:00
-- __[비용 통제부터 사내 에이전트까지, 멀티 AI 운영 전략 웨비나](https://event-us.kr/webinar/event/131559)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 몬드리안에이아이
-  - 접수: 08. 01(토) ~ 08. 26(수) 14:00
-- __[성과를 만드는 AI 에이전트 운영 전략 및 사례](https://event-us.kr/etnewsinternet/event/131521)__
-  - 분류: `오프라인(서울 송파구)`, `유료`, `세미나`, `AI`
-  - 주최: 전자신문인터넷
-  - 접수: 07. 29(수) ~ 08. 26(수) 15:00
-- __[성과를 만드는 AI 에이전트 운영 전략 및 사례](https://event-us.kr/etnewsinternet/event/131521)__
-  - 분류: `오프라인(서울 송파구)`, `유료`, `세미나`, `AI`
-  - 주최: 전자신문인터넷
-  - 접수: 08. 24(월) ~ 08. 26(수) 15:00
-- __[AWSKRUG 아키텍처 #architecture 58번째 소모임 8월 26일 (목)](https://www.meetup.com/awskrug/events/315869898/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 07. 28(화) ~ 08. 26(수) 19:00
-- __[2026 I/O Extended: Hack the Beat](https://event-us.kr/gdgcampuskorea/event/131744)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `대회`, `AI`
-  - 주최: GDG Campus Korea
-  - 접수: 08. 05(수) ~ 08. 26(수) 23:30
-- __[개발자 생존 토크쇼: AI Agent로 만드는 나의 첫 비즈니스](https://www.pathfinder.camp/event-details/survival-talkshow)__
-  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
-  - 주최: 패스파인더
-  - 접수: 08. 10(월) ~ 08. 26(수) 23:50
-- __[OpenAI Game Builders Seoul](https://openaigame2026.com/)__
-  - 분류: `온라인`, `오프라인(서울)`, `무료`, `대회`, `AI`
-  - 주최: OpenAI / 컴투스홀딩스
-  - 접수: 08. 04(화) ~ 08. 26(수)
 - __[Snowflake World Tour 2026 – 서울](https://www.snowflake.com/ko/world-tour/seoul/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: Snowflake
   - 접수: 07. 22(수) ~ 08. 27(목) 08:00
+  
 - __[Physical AI 시연을 넘어, 운영으로 — Physical AI 실전 전략](https://event-us.kr/advantechseminar/event/132284)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 어드밴텍
@@ -311,6 +203,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 금융보안원
   - 접수: 07. 13(월) ~ 09. 07(월) 10:00
+- __[2026 넥토리얼 For Game Programmer](https://nexon-tutorial.com/)__
+  - 분류: `온라인`, `오프라인`, `무료`, `교육`, `기술일반`
+  - 주최: 넥슨코리아
+  - 접수: 08. 25(화) ~ 09. 07(월) 16:00
 - __[e4ds Tech Day 2026](https://event-us.kr/jongin/event/132364)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: e4ds news
@@ -375,10 +271,18 @@
   - 분류: `오프라인(대구)`, `유료`, `세미나`, `기술일반`
   - 주최: 맞다AI가
   - 접수: 08. 14(금) ~ 09. 15(화)
+- __[GitHub Copilot 최신 업데이트](https://github.registration.goldcast.io/events/a41c10fa-4c10-4ff5-8954-cd7a1daff6fe)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: GitHub
+  - 일시: 09. 16(수) 16:00 ~ 09. 16(수) 17:00
 - __[Docker Community 9월 밋업](https://ticketa.co/event/196djvgj)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `클라우드`
   - 주최: Docker User Group Korea
   - 접수: 08. 17(월) ~ 09. 16(수) 00:00
+- __[원티드 AI Championship 2026](https://event.wanted.co.kr/ai-championship/2026)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 원티드랩
+  - 접수: 08. 24(월) ~ 09. 18(금)
 - __[[보안 웨비나] 모바일 앱 서비스, 어디서 뚫리는가? AI 시대의 실전 보안 위협과 대응 전략](https://event-us.kr/doverunner/event/133462)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 도브러너
@@ -1034,6 +938,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/crowdacademy-manager"><img src="https://avatars.githubusercontent.com/u/301247116?v=4?s=100" width="100px;" alt="crowdacademy-manager"/><br /><sub><b>crowdacademy-manager</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=crowdacademy-manager" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/seplease"><img src="https://avatars.githubusercontent.com/u/80445374?v=4?s=100" width="100px;" alt="Sieun Kim"/><br /><sub><b>Sieun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seplease" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nomad2569"><img src="https://avatars.githubusercontent.com/u/58652871?v=4?s=100" width="100px;" alt="nomad"/><br /><sub><b>nomad</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nomad2569" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbp-jack"><img src="https://avatars.githubusercontent.com/u/149581532?v=4?s=100" width="100px;" alt="Nero"/><br /><sub><b>Nero</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dbp-jack" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
