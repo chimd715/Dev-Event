@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-209-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-210-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -620,6 +620,7 @@
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 | ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 | KUSITMS | 비전을 가지고 성장하는 한국대학생 IT경영학회                      | [공식 홈페이지](https://www.kusitms.com/), [instagram](https://www.instagram.com/kusitms_official/)  |
+| HSPACE | 보안·IT 학습과 연구, 프로젝트 및 동아리 활동 지원 | [공식 홈페이지](https://hspace.io/), [Instagram](https://www.instagram.com/hspace_official/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -1029,6 +1030,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/seplease"><img src="https://avatars.githubusercontent.com/u/80445374?v=4?s=100" width="100px;" alt="Sieun Kim"/><br /><sub><b>Sieun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seplease" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nomad2569"><img src="https://avatars.githubusercontent.com/u/58652871?v=4?s=100" width="100px;" alt="nomad"/><br /><sub><b>nomad</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nomad2569" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbp-jack"><img src="https://avatars.githubusercontent.com/u/149581532?v=4?s=100" width="100px;" alt="Nero"/><br /><sub><b>Nero</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dbp-jack" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sungho-pk42ac"><img src="https://avatars.githubusercontent.com/u/205304160?v=4?s=100" width="100px;" alt="pk42ac"/><br /><sub><b>pk42ac</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Sungho-pk42ac" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
